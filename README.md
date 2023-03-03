@@ -1,7 +1,6 @@
 # Hej, I'm Megan!:sparkles:👋
 
-- 🌱 I’m currently learning about [bicep](https://github.com/meganbloemsma/flex-that-bicep)
-- 🎨 This page is a work in progress
+- 🌱 What I'm learning about (read my notes): [bicep](https://github.com/meganbloemsma/flex-that-bicep)
 - 📫 Find me on [MeganBloemsma.com](https://meganbloemsma.com) and [LinkedIn](https://linkedin.com/in/meganbloemsma)
 
 <!---
