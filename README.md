@@ -1,6 +1,7 @@
 # Hej, I'm Megan!:sparkles:👋
 
-- 🌱 What I'm learning about (read my notes): [bicep](https://github.com/meganbloemsma/flex-that-bicep)
+- 🌱 What I'm learning about (read my notes): Azure Data Factory and Airflow
+- 📒 Recent learnings: [bicep](https://github.com/meganbloemsma/flex-that-bicep)
 - 📫 Find me on [MeganBloemsma.com](https://meganbloemsma.com) and [LinkedIn](https://linkedin.com/in/meganbloemsma)
 
 <!---
