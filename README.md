@@ -1,7 +1,7 @@
 # Hej, I'm Megan!:sparkles:👋
 
-- 🌱 What I'm learning about (coming soon): [Tools for responsible ai](https://github.com/meganbloemsma/tools-for-responsible-ai), Airflow, HPC
-- 📒 Recent learnings: [Bicep](https://github.com/meganbloemsma/flex-that-bicep)
+- 🌱 What I'm learning about (coming soon): [Tools for responsible AI](https://github.com/meganbloemsma/tools-for-responsible-ai), Airflow, HPC
+- 📒 Recent learnings: [Bicep (infrastructure as code)](https://github.com/meganbloemsma/flex-that-bicep)
 - 📫 Find me on [MeganBloemsma.com](https://meganbloemsma.com) and [LinkedIn](https://linkedin.com/in/meganbloemsma)
 
 <!---
