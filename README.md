@@ -1,7 +1,7 @@
 # Hej, I'm Megan!✨👋
 
-- 🌱 What I'm learning about (coming soon): [Tools for responsible AI](https://github.com/meganbloemsma/tools-for-responsible-ai)
-- 📒 Recent learnings: [High Performance Computing (HPC)](https://github.com/meganbloemsma/hpc), [Bicep (infrastructure as code)](https://github.com/meganbloemsma/flex-that-bicep)
+- 🌱 What I'm learning about (coming soon): TBD
+- 📒 Recent learnings: [Tools for responsible AI](https://github.com/meganbloemsma/tools-for-responsible-ai), [High Performance Computing (HPC)](https://github.com/meganbloemsma/hpc)
 - 🎁 Recent project: [Send message (speech-to-text D&D spell](https://github.com/meganbloemsma/send-message))
 - 📫 Find me on [MeganBloemsma.com](https://meganbloemsma.com) and [LinkedIn](https://linkedin.com/in/meganbloemsma)
 
